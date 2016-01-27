@@ -1,7 +1,5 @@
 Rebel yell - Billy Idol - in D major
 
-Patches: Organ + arp (?)
-
 Intro,      Hm | Hm | Hm | Hm
 Guitar
 
@@ -10,7 +8,7 @@ Intro       G  | F#m | Em | Em
             Hm | Hm  | Hm | Hm
 
 
-Verse 1:    Hm | Hm | Hm | Hm                   + portamento-line
+Verse 1:    Hm | Hm | Hm | Hm
             D/A | D/A | G | Em * D A
             Hm | Hm | Hm | Hm
             D/A | D/A | G | Em * D A
@@ -22,7 +20,7 @@ Chorus:     Hm | Hm | Hm | Hm
 
 Riff        Hm | Hm | Hm | Hm
 
-Verse 2:    Hm | Hm | Hm | Hm                   + portamento-line
+Verse 2:    Hm | Hm | Hm | Hm
             D/A | D/A | G | Em * D A
             Hm | Hm | Hm | Hm
             D/A | D/A | G | Em * D A
@@ -44,10 +42,10 @@ Solo:       Hm | Hm | Hm | Hm
             Hm | Hm | Hm | Hm
             D/A | D/A | G | Em * D A
 
-Trommebrekk * | * | * | * |
+Drum break  * | * | * | * |
 
 
-Vamp:       Hm | Hm | Hm | Hm                   Følg basslinje med portamento-lead
+Vamp:       Hm | Hm | Hm | Hm
             D/A | D/A | G | Em * D A
             Hm | Hm | Hm | Hm
             D/A | D/A | G | Em * D A
